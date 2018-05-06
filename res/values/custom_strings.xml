@@ -167,9 +167,8 @@
     <!-- Search -->
     <string name="menu_search">Search apps</string>
     <string name="menu_search_hint">Search apps...</string>
-    <string name="menu_search_hint">Search apps\u2026</string>
 	
-	<!-- Security dialog -->
+    <!-- Security dialog -->
     <string name="aosp_security_bulletin_url">https://source.android.com/security/bulletin/2018-04-01</string>
     <string name="security_dialog_title">Security updates</string>
     <string name="security_dialog_neutral_button">AOSP Security Bulletins</string>
